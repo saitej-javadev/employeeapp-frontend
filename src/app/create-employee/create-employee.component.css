@@ -1,0 +1,10 @@
+h2{
+    font-style: italic;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+input:placeholder-shown {
+    font-style: italic;
+ }
